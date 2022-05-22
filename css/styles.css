@@ -9,10 +9,7 @@
     --background-white: #FFFFFF;
     --background-second: #F5F4FA;
     --background-accent: #2196F3;
-
-
-}
-.page {
+}    
 body {
     color: var(--primary-text-color);
     background-color: var(--background-white);
