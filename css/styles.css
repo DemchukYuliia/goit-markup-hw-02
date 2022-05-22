@@ -157,8 +157,8 @@ a {
     text-align: center;
 }
 
-.button :hover,
-.button :focus {
+.button:hover,
+.button:focus {
     color: var(--second-text-color);
     background: var(--background-accent);
 }
